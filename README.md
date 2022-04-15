@@ -14,7 +14,7 @@ Main features learned while developing the app:
 
 ---
 
-## Features of the app:
+# Features of the app:
 
 - sorting restaurants as per there rating
 
